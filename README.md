@@ -1,4 +1,4 @@
-# Eklavya Coaching Center V6
+# Eklavya Coaching Center 
 
 ## IMPORTANT: run the website through the server
 Do **not** double-click `public/index.html` for the full V6 experience. V6 includes a Node/Express backend for Admin Login and content management.
